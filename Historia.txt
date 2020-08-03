@@ -1,5 +1,7 @@
 Esta es una práctica de Git
 
-Git versión 2
+Git versión 4.2
 
-Después más información...
+Información actualizada
+
+Nueva versión
